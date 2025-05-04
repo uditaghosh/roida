@@ -9,3 +9,16 @@
 3. ROIDA
 
    ``` bash algo.sh --env_name $env_name --exp_num $number_of_expert ```
+
+If you find this helpful, please cite
+```
+@misc{ghosh2024robustofflineimitationlearning,
+      title={Robust Offline Imitation Learning from Diverse Auxiliary Data}, 
+      author={Udita Ghosh and Dripta S. Raychaudhuri and Jiachen Li and Konstantinos Karydis and Amit K. Roy-Chowdhury},
+      year={2024},
+      eprint={2410.03626},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.03626}, 
+}
+```
