@@ -8,4 +8,4 @@
    ``` bash discriminate_expert_subexpert.sh ```
 3. ROIDA
 
-  ``` bash algo.sh --env_name $env_name --exp_num $number_of_expert ```
+   ``` bash algo.sh --env_name $env_name --exp_num $number_of_expert ```
