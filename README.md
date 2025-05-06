@@ -8,7 +8,9 @@
    ``` bash discriminate_expert_subexpert.sh ```
 3. ROIDA
 
-   ``` bash algo.sh --env_name $env_name --exp_num $number_of_expert ```
+   ``` bash algo.sh ```
+
+You may need to change the hyperparameters like env_name and number of experts as necessary.
 
 If you find this helpful, please cite
 ```
