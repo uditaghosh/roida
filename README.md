@@ -21,6 +21,5 @@ If you find this helpful, please cite
       eprint={2410.03626},
       archivePrefix={arXiv},
       primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2410.03626}, 
-}
+      url={https://arxiv.org/abs/2410.03626}}
 ```
