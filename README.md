@@ -10,7 +10,7 @@
 
    ``` bash algo.sh ```
 
-You may need to change the hyperparameters like env_name and number of experts as necessary.
+You may need to change the hyperparameters like env_name and number of experts as necessary in the bash files.
 
 If you find this helpful, please cite
 ```
